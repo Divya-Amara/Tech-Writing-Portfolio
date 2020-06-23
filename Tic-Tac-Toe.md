@@ -39,13 +39,13 @@ Following are the steps to play Tic-Tac-Toe:
 
 1. On a piece of paper, draw a 3X3 grid of squares, which means it has three rows and three columns, as shown in the image below.
 
- ![Image-1](/Users/divya/Documents/Images/Image-1.png)
+ ![Image-1](https://user-images.githubusercontent.com/66926406/85435901-059c8e00-b53d-11ea-98c5-1f5838ff407f.png)
 
         Toss a coin to see which player goes first.
 
 2. Players take alternate turns. They fill in the girds with their chosen mark **X** or **O**’s, as shown in the image below.
 
- ![Image-2](/Users/divya/Documents/Images/Image-2.png)
+ ![Image-2](https://user-images.githubusercontent.com/66926406/85435999-2b299780-b53d-11ea-8e52-5efa34d398c8.png)
 
 3. The players play till all the grids are filled with  **X** or **O**’s as shown in the image below.
 
@@ -54,8 +54,8 @@ Following are the steps to play Tic-Tac-Toe:
 
 4. The player who first succeeds in placing the marks horizontal, vertical, or diagonal row wins the game, as shown in the image below.
 
- ![Image-3](/Users/divya/Documents/Images/Image-3.png)
+ ![Image-3](https://user-images.githubusercontent.com/66926406/85436092-56ac8200-b53d-11ea-92bc-106284c53c6d.png)
 
 5. If all the squares are filled, and none of the players were able to make three marks in a row (horizontally, vertically, or diagonally),then the game ends in a tie.
 
- ![Image-4](/Users/divya/Documents/Images/Image-4.png)
+ ![Image-4](https://user-images.githubusercontent.com/66926406/85435766-cff7a500-b53c-11ea-82a9-91a4f8223a33.png)
