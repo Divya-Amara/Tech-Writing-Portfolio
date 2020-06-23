@@ -49,7 +49,7 @@ Following are the steps to play Tic-Tac-Toe:
 
 3. The players play till all the grids are filled with  **X** or **O**’s as shown in the image below.
 
-  ![Image-5](/Users/divya/Documents/Images/Image-5.png)
+  ![Image-5](https://user-images.githubusercontent.com/66926406/85435284-126cb200-b53c-11ea-8449-1fe8744ca439.png)
 
 
 4. The player who first succeeds in placing the marks horizontal, vertical, or diagonal row wins the game, as shown in the image below.
