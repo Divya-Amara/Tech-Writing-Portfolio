@@ -65,12 +65,12 @@ There are five modes of operating the switch button to get into each mode.
 
 * **Mode 1: Always On**
 
- Press the Switch button for 5 seconds for **Always On** mode. This mode indicates that the light is always on.
+  Press the Switch button for 5 seconds for **Always On** mode. This mode indicates that the light is always on.
 
 
 * **Mode 2: Motion & Light Sensor**
 
- After turning on the light, press the Switch button for a short time, and a green indicator flashes for a second. This means Motion & Light Sensor mode is activated.
+  After turning on the light, press the Switch button for a short time, and a green indicator flashes for a second. This means Motion & Light Sensor mode is activated.
 
 * **Mode 3: Only Motion Sensor**
 
@@ -84,8 +84,6 @@ There are five modes of operating the switch button to get into each mode.
 * **Mode 5: OFF**
 
    Keep the Switch pressed for a long time up to 7 seconds to turn off the lights.
-
-
 
 
 ## Safety Precautions
